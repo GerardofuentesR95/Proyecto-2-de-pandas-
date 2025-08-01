@@ -1,1 +1,2 @@
 # Proyecto-2-de-pandas-
+En este proyecto realicé el analisis de las ventas virtuales de un supermercado, para este analisis se utilizó el lenguaje de programación python y las librerías de pandas, numpy, matplotlib y seaborn. 
